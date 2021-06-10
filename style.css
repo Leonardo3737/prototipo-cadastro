@@ -1,0 +1,47 @@
+body{
+    font-family: arial;
+}
+
+.botao {
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.label {
+    padding: 6px;
+    border-left: 3px solid black;
+}
+.form {
+    border: 3px solid black;
+    width: 1260px;
+}
+.espacI{
+    margin: 3px;
+}
+.espac {
+    margin-left: 3px;
+}
+#add {
+    width: 200px;
+    align-items: center;
+}
+.align{
+    margin: auto;
+    width: 200px;
+    align-items: center;
+}
+.campo{
+    margin-bottom: 5px;
+}
+.bottons{
+    width: 90px;
+    margin-left: 88% ;
+    align-items: center;
+}
+#perfil {
+    margin: auto;
+    width: 500px;
+}
+.alignT{
+    text-align: center;
+}
